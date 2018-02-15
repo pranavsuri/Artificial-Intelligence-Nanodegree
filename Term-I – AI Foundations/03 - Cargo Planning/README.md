@@ -134,4 +134,4 @@ The exercises in this project can take a long time to run (from several seconds 
 ## License
 [Modified MIT License © Pranav Suri](/License.txt)
 
-I'm grateful to @philferriere for posting his work online. His analysis on the same project helped me a lot to write this Read-Me in the current form.
+I'm grateful to [@philferriere](https://github.com/philferriere/aind-projects) for posting his work online. His analysis on the same project helped me a lot to write this Read-Me in the current form.
