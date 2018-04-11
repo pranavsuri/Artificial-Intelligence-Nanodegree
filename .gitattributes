@@ -1,0 +1,7 @@
+# .gitattributes for 'Artificial-Intelligence-Nanodegree'.
+# Repository consists primarily of
+# iPython Notebooks, Python Scripts.
+
+* linguist-vendored
+*.py linguist-vendored=false
+*.ipynb linguist-vendored=false
