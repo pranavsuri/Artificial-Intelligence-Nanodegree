@@ -2,6 +2,8 @@
 
 This repository contains the projects completed as a part of Udacity's [Artificial Intelligence Nanodegree](https://in.udacity.com/course/artificial-intelligence-nanodegree--nd889).
 
+![Certificate of Completion](Certificate.png)
+
 ## Contents
 
 ### Term-1: Foundations of AI
@@ -19,7 +21,7 @@ A planning agent was implemented to solve deterministic logistics-planning probl
 HMMs (Hidden Markov Models) are used to recognize words communicated using the American Sign Language (ASL). The system is trained on a dataset of videos that have been pre-processed and annotated and then tested on novel sequences.
 
 ### Term-2: Deep Learning & Applications
-Yet to enroll (as of 15th Feb 2018).
+On 19th May 2018, opted for the option to graduate from Term-1. Would be learning the Term-2 content through other sources.
 
 ## License
 [Modified MIT License © Pranav Suri](/License.txt)
